@@ -1,0 +1,20 @@
+ th{text-align: left;
+            color:mediumvioletred;}
+
+        p{background:aliceblue ;font-family:'Cambria Math' }
+
+        img{align-content: center}
+        .form{
+            padding-left:100px;
+        }
+        .body{
+
+            font-family: Cambria;
+        }
+       #body{
+           font-family:"serif";
+           font-weight: revert;
+       }
+       h1{
+           text-align:left;
+       }
