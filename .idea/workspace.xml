@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5861b837-efd7-4869-8dfe-bb82480cb8ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myWebApp/ifelse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myWebApp/operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myWebApp/dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/myWebApp/dictionaries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myWebApp/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/myWebApp/list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myWebApp/tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/myWebApp/tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myWebApp/ifelse.py" beforeDir="false" afterPath="$PROJECT_DIR$/myWebApp/ifelse.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,15 +92,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myWebApp/operators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="58" column="8" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+            <state relative-caret-position="282">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myWebApp/ifelse.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -172,11 +170,6 @@
               <item name="techCamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="techCamp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="techCamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techCamp" type="462c0819:PsiDirectoryNode" />
-              <item name="myWebApp" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -198,7 +191,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -212,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.operators">
+  <component name="RunManager" selected="Python.ifelse">
     <configuration name="dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="techCamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -235,7 +228,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ifelse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="techCamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,7 +241,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myWebApp/hello.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myWebApp/ifelse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -325,11 +318,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ifelse" />
         <item itemvalue="Python.operators" />
         <item itemvalue="Python.dictionaries" />
         <item itemvalue="Python.list" />
         <item itemvalue="Python.tuple" />
-        <item itemvalue="Python.hello" />
       </list>
     </recent_temporary>
   </component>
@@ -349,12 +342,12 @@
       <workItem from="1574093095648" duration="5369000" />
       <workItem from="1574146549347" duration="4510000" />
       <workItem from="1574177277064" duration="11058000" />
-      <workItem from="1574264294578" duration="4678000" />
+      <workItem from="1574264294578" duration="6198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46056000" />
+    <option name="totallyTimeSpent" value="47576000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -366,11 +359,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.68454933" visible="true" weight="0.075642966" />
-      <window_info id="Structure" order="1" sideWeight="0.31545064" side_tool="true" visible="true" weight="0.075642966" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.68454933" visible="true" weight="0.13161875" />
+      <window_info id="Structure" order="1" sideWeight="0.31545064" side_tool="true" visible="true" weight="0.13161875" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -428,6 +421,7 @@
     <SUITE FILE_PATH="coverage/techCamp$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1574255374738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myWebApp" />
     <SUITE FILE_PATH="coverage/techCamp$list.coverage" NAME="list Coverage Results" MODIFIED="1574257764188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myWebApp" />
     <SUITE FILE_PATH="coverage/techCamp$hello.coverage" NAME="hello Coverage Results" MODIFIED="1574179424952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myWebApp" />
+    <SUITE FILE_PATH="coverage/techCamp$ifelse.coverage" NAME="ifelse Coverage Results" MODIFIED="1574270459628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myWebApp" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/myWebApp/index.html">
@@ -487,13 +481,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myWebApp/operators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="58" column="8" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+        <state relative-caret-position="282">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myWebApp/ifelse.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
