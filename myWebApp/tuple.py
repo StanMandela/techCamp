@@ -9,4 +9,6 @@ print(daysOfTheWeek.count('y'))
 print(daysOfTheWeek[-6])
 
 man= " Daset",67
+
 print(type(man))
+

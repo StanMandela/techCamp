@@ -1,0 +1,13 @@
+Python:
+Data structures:
+1.List:
+collection of more than one variable.
+can hold multiple types.
+CHECKOUT:
+insert()
+append()
+count()
+pop()
+reverse()
+2.i) change or add element in a dictnionary
+  ii) delete
