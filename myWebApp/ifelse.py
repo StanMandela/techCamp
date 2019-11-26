@@ -22,7 +22,8 @@ if num >0:
     print("{} is > than".format(num))
 elif num ==10:
     print("{} is > than".format(num))
-else:print("{} is your marks".format(num))
+else:
+    print("{} is your marks".format(num))
 
 
 #

@@ -29,7 +29,7 @@ client={
 # print(client["Age"])
 # print(myDict[2])
 # print(client["Dislikes"][1])
-# print(client["Schools_attended"][0])
+#print(client["Schools_attended"][0])
 # h = client["parents"]
 # print(h["mother"])
 
@@ -43,7 +43,7 @@ client2={
     "Country":"USA"
 }
 client.update(client2)
-print(client)
+print(client["City"])
 
 # Delete
 #del client[1]
